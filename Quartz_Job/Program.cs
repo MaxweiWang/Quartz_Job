@@ -13,6 +13,7 @@ namespace Quartz_Job
         static void Main(string[] args)
         {
             RunScheduler();
+            Console.WriteLine("dasda");
             Console.ReadLine();
         }
 

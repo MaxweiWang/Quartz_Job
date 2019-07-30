@@ -18,7 +18,7 @@ namespace Quartz_Job
 
         private static async Task RunScheduler()
         {
-            // 创建作业调度器 
+            // 创建作业调度器    
             ISchedulerFactory factory = new StdSchedulerFactory();
             IScheduler scheduler = await factory.GetScheduler();
             // 启动调度器

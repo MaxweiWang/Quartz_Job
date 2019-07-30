@@ -1,0 +1,9 @@
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\bin\Debug\Quartz_Job.exe.config
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\bin\Debug\Quartz_Job.exe
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\bin\Debug\Quartz_Job.pdb
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\bin\Debug\Quartz.dll
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\bin\Debug\Quartz.pdb
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\bin\Debug\Quartz.xml
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\obj\Debug\Quartz_Job.exe
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\obj\Debug\Quartz_Job.pdb
+D:\eleven\projectCode\Quartz_Job\Quartz_Job\obj\Debug\Quartz_Job.csprojResolveAssemblyReference.cache
